@@ -105,6 +105,18 @@ experiences:
           - Bullet point
           - Bullet point
 
+    - role: Primary Care Nurse
+      time: March 2021 - Dicember 2021
+      company: Centro de Salud Valterra
+      # optional
+      company_logo: https://www3.gobiernodecanarias.org/sanidad/scs/images/SCS_logo_texBajo.jpg
+      details: |
+        I was in charge of the covid-19 vaccination on the island of Lanzarote, 
+        along with other colleagues. I also had nursing consultations, 
+        did retinography, Doppler ultrasound, cures, blood tests, etc.
+        
+          - Bullet point
+          - Bullet point
 # Your project portfolio
 projects:
     intro: >
